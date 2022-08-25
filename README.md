@@ -67,7 +67,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for providing the project requirements and for the distribution of tasks.
+- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for the opportunities
 
 ## 📝 License
 
